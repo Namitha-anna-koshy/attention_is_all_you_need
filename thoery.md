@@ -5,13 +5,13 @@
 
 ---
 
-## 💡 Before We Start...
+## INTRO
 
 Imagine you're translating a sentence word by word, and you have to remember everything you've read so far.
 
 Sounds easy, right?
 
-Well... apparently not. 😌
+Well... apparently not. 
 
 Before Transformers, models like **RNNs**, **LSTMs**, and **GRUs** processed sentences sequentially — one word at a time. This created two major bottlenecks:
 * Harder to capture relationships between words that were far apart.
